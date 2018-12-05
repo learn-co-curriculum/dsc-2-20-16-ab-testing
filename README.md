@@ -37,9 +37,9 @@ Finally, once the test statistic is determined, we must set a rejection region. 
 
 ## Type I and II Errors
 
-A type I error is when we reject the null hypothesis, $H_0$, when it is actually true. The probability of a type I error occuring is denoted by $\alpha$ (pronounced alpha).  
+A type I error is when we reject the null hypothesis, $H_0$, when it is actually true. The probability of a type I error occurring is denoted by $\alpha$ (pronounced alpha).  
 
-A type II error is when we accept the null hypothesis, $H_0$, when it is actually false. The probability of a type II error occuring is denoted by $\beta$ (pronounced beta).
+A type II error is when we accept the null hypothesis, $H_0$, when it is actually false. The probability of a type II error occurring is denoted by $\beta$ (pronounced beta).
 
 ## Determing an acceptable sample size
 
